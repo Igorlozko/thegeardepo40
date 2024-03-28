@@ -37,6 +37,8 @@
     "supercluster": "^8.0.1",
     "swiper": "^11.0.6",
     "uuid": "^9.0.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
